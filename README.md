@@ -1,20 +1,16 @@
-### Андрей Суханов - AI Engineer / Prompt Engineer
+### Andrey Sukhanov - AI Engineer / Prompt Engineer
 
-Строю LLM-системы, которые работают в продакшене: агенты, RAG, промпт-цепочки, замер качества.
+I build LLM systems that work in production: agents, RAG, prompt pipelines, and quality measurement.
 
-Сейчас - промпт-инженер в ИИ-репетиторе для школьников: модерация, предметные промпты, синтез речи, несколько языков. Качество меряю, а не оцениваю на глаз: eval-датасеты, модель-судья, сравнение версий промпта. Отдельно - безопасность ответов и устойчивость к prompt injection.
+Currently a prompt engineer at an AI tutor for school students: moderation, subject prompts, text-to-speech, several languages. I measure quality instead of eyeballing it - eval datasets, LLM-as-judge, version-to-version prompt comparisons. Plus answer safety and prompt injection resistance.
 
-**Проекты**
+**Projects**
 
-- [memento](https://github.com/AndreySukhanov/memento) - долговременная память задач для Claude Code: агент сам ведёт файлы задачи, решения и гипотезы, внешние модели проверяют записанное
-- [ai-video-factory](https://github.com/AndreySukhanov/ai-video-factory) - разбор вирусных видео vision-моделями и генерация серий с одним персонажем: FastAPI, Next.js, Docker
-- [crm-seller-ai](https://github.com/AndreySukhanov/crm-seller-ai) - ИИ-продавец для Bitrix24 и amoCRM: ведёт диалог, квалифицирует лида, двигает по воронке
-- [summarix-ai](https://github.com/AndreySukhanov/summarix-ai) - шаблон платного ИИ-бота в Telegram: aiogram 3, Telegram Stars, подписки, Docker, CI
+- [memento](https://github.com/AndreySukhanov/memento) - persistent task memory for Claude Code: the agent maintains task files, decisions and hypotheses itself, outside models verify what was written
+- [ai-video-factory](https://github.com/AndreySukhanov/ai-video-factory) - decodes viral videos with vision LLMs and generates consistent-character series: FastAPI, Next.js, Docker
+- [crm-seller-ai](https://github.com/AndreySukhanov/crm-seller-ai) - AI sales agent for Bitrix24 and amoCRM: runs the dialog, qualifies leads, moves deals through the pipeline
+- [summarix-ai](https://github.com/AndreySukhanov/summarix-ai) - paid AI Telegram bot template: aiogram 3, Telegram Stars, subscriptions, Docker, CI
 
-**Стек:** Python, FastAPI, LangGraph, LangChain, OpenAI API, RAG, Qdrant, PostgreSQL, Docker, MCP, GigaChat, YandexGPT
+**Stack:** Python, FastAPI, LangGraph, LangChain, OpenAI API, RAG, Qdrant, PostgreSQL, Docker, MCP, GigaChat, YandexGPT
 
-**Связь:** [Telegram @andreys_nm](https://t.me/andreys_nm)
-
----
-
-AI engineer focused on production LLM systems: agents, RAG, prompt pipelines, evals and guardrails. Open to remote work.
+**Contact:** [Telegram @andreys_nm](https://t.me/andreys_nm) · open to remote work and relocation
