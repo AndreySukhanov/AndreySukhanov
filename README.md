@@ -6,6 +6,7 @@ Currently a prompt engineer at an AI tutor for school students: moderation, subj
 
 **Projects**
 
+- [skillprobe](https://github.com/AndreySukhanov/skillprobe) - eval harness for agent skills: does a SKILL.md trigger when it should and does the model follow it, with repeats and confidence intervals across OpenAI, Qwen, DeepSeek, GLM and Kimi
 - [memento](https://github.com/AndreySukhanov/memento) - persistent task memory for Claude Code: the agent maintains task files, decisions and hypotheses itself, outside models verify what was written
 - [ai-video-factory](https://github.com/AndreySukhanov/ai-video-factory) - decodes viral videos with vision LLMs and generates consistent-character series: FastAPI, Next.js, Docker
 - [crm-seller-ai](https://github.com/AndreySukhanov/crm-seller-ai) - AI sales agent for Bitrix24 and amoCRM: runs the dialog, qualifies leads, moves deals through the pipeline
