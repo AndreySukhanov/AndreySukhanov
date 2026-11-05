@@ -14,4 +14,4 @@ Currently a prompt engineer at an AI tutor for school students: moderation, subj
 
 **Stack:** Python, FastAPI, LangGraph, LangChain, OpenAI API, RAG, Qdrant, PostgreSQL, Docker, MCP, GigaChat, YandexGPT
 
-**Contact:** [Telegram @andreys_nm](https://t.me/andreys_nm)
+**Contact:** [Telegram @andreys_nm](https://t.me/andreys_nm) · [avsukhanov21@gmail.com](mailto:avsukhanov21@gmail.com)
