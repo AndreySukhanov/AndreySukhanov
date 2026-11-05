@@ -2,7 +2,7 @@
 
 I build LLM systems that work in production: agents, RAG, prompt pipelines, and quality measurement.
 
-Currently a prompt engineer at an AI tutor for school students: moderation, subject prompts, text-to-speech, several languages. I measure quality instead of eyeballing it - eval datasets, LLM-as-judge, version-to-version prompt comparisons. Plus answer safety and prompt injection resistance.
+Currently a prompt engineer at an EdTech AI product: moderation, subject prompts, text-to-speech, several languages. I measure quality instead of eyeballing it - eval datasets, LLM-as-judge, version-to-version prompt comparisons. Plus answer safety and prompt injection resistance.
 
 **Projects**
 
