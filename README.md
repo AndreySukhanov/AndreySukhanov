@@ -1,4 +1,4 @@
-### Andrey Sukhanov - AI Engineer / Prompt Engineer
+### Andrey Sukhanov - AI Engineer
 
 I build LLM systems that work in production: agents, RAG, prompt pipelines, and quality measurement.
 
